@@ -1,0 +1,75 @@
+{
+  "categories": [
+    { "id": 1, "name": "Expressionism" },
+    { "id": 2, "name": "Impressionism" },
+    { "id": 3, "name": "Abstract" },
+    { "id": 4, "name": "Realism" },
+    { "id": 5, "name": "Surrealism" }
+  ],
+  "replies": [],
+  "paintings": [
+    {
+      "name": "Sleeping Hero",
+      "id": 1,
+      "author": "Sebastien Blondet",
+      "yearMade": 2022,
+      "price": 12200,
+      "image": "assets/1.jpg",
+      "category": 1
+    },
+    {
+      "name": "War in Ukraine",
+      "id": 2,
+      "author": "Alexander Kaniuka",
+      "yearMade": 2022,
+      "price": 42500,
+      "image": "assets/2.jpg",
+      "category": 2
+    },
+    {
+      "name": "Support for Ukraine",
+      "id": 3,
+      "author": "Arthur Steinbach",
+      "yearMade": 2022,
+      "price": 5000,
+      "image": "assets/3.jpg",
+      "category": 3
+    },
+    {
+      "name": "Heroes of Ukraine",
+      "id": 4,
+      "author": "Su Yu",
+      "yearMade": 2022,
+      "price": 3000,
+      "image": "assets/4.jfif",
+      "category": 4
+    },
+    {
+      "name": "Mother and Baby Jesus",
+      "id": 5,
+      "author": "Maria Harasowska-Daczyszyn",
+      "yearMade": 1911,
+      "price": 30000,
+      "image": "assets/5.png",
+      "category": 5
+    },
+    {
+      "name": "Boris Chuprina",
+      "id": 6,
+      "author": "Team of the Chernihiv Regional Historical Museum",
+      "yearMade": 2022,
+      "price": 616000,
+      "image": "assets/6.jpg",
+      "category": 1
+    },
+    {
+      "name": "Pes Patron",
+      "id": 7,
+      "author": "Ukrainian volunteer",
+      "yearMade": 2022,
+      "price": 16000,
+      "image": "assets/7.jfif",
+      "category": 2
+    }
+  ]
+}
